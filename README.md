@@ -1,0 +1,1 @@
+Lahiru Sandaruwan Portfolio V4. Hero headline: IDEAS MADE VISUAL. The hero uses a CSS animated iridescent orb inspired by the supplied visual reference. Lahiru's portrait appears only in the About section. Keep the assets folder beside index.html. All work preview cards link to the supplied Behance profile URL.
